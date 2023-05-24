@@ -1,0 +1,88 @@
+.contact-container {
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+}
+.form-container {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.why-choose-us {
+  background-color: #fff;
+  padding: 50px;
+  margin-top: 50px;
+}
+
+.why-choose-us h2 {
+  font-size: 2em;
+  text-align: center;
+}
+
+.why-choose-us .feature {
+  margin-bottom: 20px;
+}
+
+.why-choose-us .feature i {
+  font-size: 50px;
+  color: #337ab7;
+}
+
+.why-choose-us .feature h4 {
+  margin-top: 10px;
+  font-size: 1.5em;
+}
+
+.why-choose-us .feature p {
+  margin-top: 10px;
+  font-size: 1em;
+}
+
+.contact-container {
+  background-color: #fff;
+  padding: 50px;
+  margin-top: 50px;
+}
+
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.btn-primary {
+  background-color: #337ab7;
+  color: #fff;
+  border-radius: 4px;
+}
+
+#contact-message {
+  text-align: center;
+  margin-top: 20px;
+}
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+  margin-top: 20px;
+}
+
+.about-section h1 {
+  font-size: 2em;
+  margin-bottom: 16px;
+}
+
+.about-section p {
+  font-size: 16px;
+  line-height: 1.5;
+}
